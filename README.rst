@@ -15,7 +15,7 @@ manage High Performance Computing (HPC) clusters in the AWS cloud.
 Built on the Open Source CfnCluster project, AWS ParallelCluster enables you to quickly build an HPC compute environment in AWS.
 It automatically sets up the required compute resources and a shared filesystem and offers a variety of batch schedulers such as AWS Batch, SGE, Torque, and Slurm.
 AWS ParallelCluster facilitates both quick start proof of concepts (POCs) and production deployments.
-You can build higher level workflows, such as a Genomics portal that automates the entire DNA sequencing workflow, on top of AWS ParallelCluster.\
+You can build higher level workflows, such as a Genomics portal that automates the entire DNA sequencing workflow, on top of AWS ParallelClusters.\
 
 Quick Start
 -----------
